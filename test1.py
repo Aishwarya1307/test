@@ -1,4 +1,2 @@
-print("dfrr")
-print("dfrr")
-print("dfrr")
+("dfrr")
 print("dfrr")
